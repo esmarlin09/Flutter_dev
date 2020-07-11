@@ -91,8 +91,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 450,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
-                        topLeft: Radius.circular(35.0),
-                        topRight: Radius.circular(35.0)),
+                        topLeft: Radius.circular(34.0),
+                        topRight: Radius.circular(34.0)),
                     color: color_container,
                   ),
                   child: Column(
